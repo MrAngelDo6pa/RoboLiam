@@ -65,7 +65,7 @@ client.once("ready", () => {
       type: "LISTENING",
     },
     {
-      activity: "Furry YouTubers.",
+      activity: "Anime YouTubers.",
       type: "WATCHING",
     },
   ];
